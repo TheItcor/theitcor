@@ -26,6 +26,6 @@
 
 <h3 align="center"> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theitcor)](https://github.com/anuraghazra/github-readme-stats)
+[![Lang-statistic](https://github-readme-stats.vercel.app/api/top-langs/?username=theitcor&layout=compact&theme=vision-friendly-dark&langs_count=8&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 </h3>
