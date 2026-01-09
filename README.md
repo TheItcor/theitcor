@@ -3,7 +3,7 @@
 **I am a simple software engineering student**
 
 
-## 🛠️ Stack
+---
 
 <h3 align="center"> 
 
@@ -20,12 +20,6 @@
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 
-</h3>
-
-## 📊 Statistic
-
-<h3 align="center"> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheItcor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TheItcor&hide=lua,html,css&theme=dark&card_width=500)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 </h3>
